@@ -3,13 +3,16 @@
 To run this Python File
 You can type on Terminal
 
-**for keras_mnist.py **
+
+**for keras_mnist.py**
 python keras_mnist.py -o "path where you want to save plot" 
+
 
 
 
 **for keras_cifar.py**
 python keras_cifar.py -o "path where you want to save plot"  
+
 
 
 
