@@ -4,7 +4,6 @@ To run this Python File
 You can type on Terminal
 
 **for keras_mnist.py **
-
 python keras_mnist.py -o "path where you want to save plot" 
 
 
